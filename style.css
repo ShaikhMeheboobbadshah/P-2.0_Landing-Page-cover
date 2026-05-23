@@ -117,7 +117,7 @@ body{
 .capsule-img{
     width: 10%;
     height: 90%;
-    background-image: url(/Resources/shaikh.png);
+    background-image: url(./Resources/shaikh.png);
     background-position: top;
     background-size: cover;
     position: absolute;
